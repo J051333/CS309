@@ -7,7 +7,7 @@
 @  as -o lab4.o lab4.s -g
 @  gcc -o lab4 lab4.o
 @ ./lab4
-@ gdb --args ./helloworld
+@ gdb --args ./lab4
 
 @ Use c's printf
 .extern printf
