@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc ./lab4.s -g -o lab4_test
+./lab4_test
